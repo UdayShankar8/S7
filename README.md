@@ -1,2 +1,4 @@
 # S7-
-CIFAR dataset
+Trained CIFAR dataset using DepthWise and Dilated Convolutions
+Achieved accuracy of 81% with total parameters of 160K
+
